@@ -1,0 +1,9 @@
+<h1>All Quotes</h1>
+
+<ul>
+<% quotes.forEach(function(quote){ %>
+  <li><a href="/quotes/<%= quote.url %>"><%= quote.name %></a></li>  
+<% }) %>
+</ul>
+
+<p><a href="/quotes/suggest">Give us your quote</a></p>

@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"prototype"
+			],
+			[
+				"cheese",
+				"cheeseSteak"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"field",
+				"field2"
+			],
+			[
+				"f",
+				"findtwins"
+			],
+			[
+				"fo",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"h",
+				"howMany"
+			],
+			[
+				"pr",
+				"printObject"
+			],
+			[
+				"n",
+				"newObject"
+			],
+			[
+				"get",
+				"getName"
+			],
+			[
+				"text",
+				"textStack"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"select",
+				"selectone"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"m",
+				"max-width"
+			],
+			[
+				"flexvideo",
+				"flex-video-int"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"b",
+				"br	Tag"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"page",
+				"page-header"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/layout.ejs",
+			"settings":
+			{
+				"buffer_size": 539,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/suggest.ejs",
+			"settings":
+			{
+				"buffer_size": 3611,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 1060,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"selected_items":
+		[
+			[
+				"sub ",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"",
+				"FileDiffs: Menu"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"htm",
+				"TidyHTML"
+			],
+			[
+				"html",
+				"TidyHTML"
+			],
+			[
+				"t",
+				"TidyHTML"
+			],
+			[
+				"T",
+				"TidyHTML"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 128.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/osbor100/Desktop/formTest/dualSubmit.html",
+		"/C/Users/osbor100/Downloads/email-template-inline/email-template-inline.html",
+		"/C/Users/osbor100/Desktop/nodejs/data/recipes.js",
+		"/C/Users/osbor100/Desktop/nodejs/views/suggest.ejs",
+		"/C/Users/osbor100/Desktop/nodejs/views/suggest_result.ejs",
+		"/C/Users/osbor100/Desktop/nodejs/recipes.js",
+		"/C/Users/osbor100/Desktop/nodejs/views/recipe.ejs",
+		"/C/Users/osbor100/Desktop/nodejs/views/index.ejs",
+		"/C/Users/osbor100/Desktop/nodejs/views/recipes.ejs",
+		"/C/Users/osbor100/Desktop/nodejs/script.js",
+		"/C/Users/osbor100/Desktop/nodejs/views/error.ejs",
+		"/C/Users/osbor100/Desktop/nodejs/package.json",
+		"/C/Users/osbor100/Desktop/shrm_email_141210/shrm_email_141210.html",
+		"/C/Users/osbor100/Desktop/eloquaformoutput.js",
+		"/C/Users/osbor100/node_modules/eloqua_request.js",
+		"/C/Users/osbor100/node_modules/module-demo.js",
+		"/C/Users/osbor100/node_modules/gulpFile.js",
+		"/C/Users/osbor100/node_modules/my-module.js",
+		"/C/Users/osbor100/Downloads/Ex_Files_UaR_Node/Ex_Files_UaR_Node/Exercise Files/01_03/async-demo.js",
+		"/C/Users/osbor100/Downloads/Ex_Files_UaR_Node/Ex_Files_UaR_Node/Exercise Files/01_03/sync-demo.js",
+		"/C/Users/osbor100/Downloads/Ex_Files_UaR_Node.zip",
+		"/C/Users/osbor100/Desktop/groot.html",
+		"/C/Users/osbor100/Desktop/testorootie.html",
+		"//its79/cdn/general_lp/ui/css/stylesNonMin.css",
+		"/C/Users/osbor100/Desktop/appUpdate.js",
+		"//its79/cdn/general_lp/ui/js/app.js",
+		"//its79/cdn/hss_lp/js/app.js",
+		"//its79/cdn/business_lp/js/app.js",
+		"//its79/cdn/cis_lp/js/app.js",
+		"/C/Users/osbor100/Desktop/general_form.html",
+		"/C/Users/osbor100/Desktop/general_lp_appJS/app.js",
+		"/C/Users/osbor100/Downloads/OptionSet60.csv",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/LandingPages/TESTlp_general_info_v150603.html",
+		"/C/Users/osbor100/Desktop/turd.html",
+		"/C/Users/osbor100/Desktop/restaurant_objects/restaurantObjects.js",
+		"/C/Users/osbor100/Desktop/bourbon-syrup/bourbon-syrup/selectChanger.js",
+		"/C/Users/osbor100/Desktop/2015_MediaLandingPages/src/ui/css/styles.css",
+		"//its79/cdn/general_lp/ui/js/main.js",
+		"/C/Users/osbor100/Desktop/2015_MediaLandingPages/package.json",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/LandingPages/General Landing Pages/lp_business_v1500511.html",
+		"//its79/cdn/hss_lp/js/main.js",
+		"/C/Users/osbor100/Desktop/2015_MediaLandingPages/src/ui/js/app.js",
+		"/C/Users/osbor100/Desktop/GUIDmania.html",
+		"/C/Users/osbor100/Downloads/2015_MediaLandingPages/src/ui/js/app.js",
+		"/C/Users/osbor100/Downloads/OptionSet44.csv",
+		"/C/Users/osbor100/Desktop/bourbon-syrup/selectChanger.js",
+		"/C/Users/osbor100/Desktop/functionPractice2/functionPractice2.js",
+		"//its79/cdn/general_lp/ui/css/styles.css",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/LandingPages/lp_general_info_v150603.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/LandingPages/lp_hss_v150529.html",
+		"//its79/cdn/cis_lp/js/main.js",
+		"//its79/cdn/generalTest/index.html",
+		"//its79/cdn/generalTest/ui/js/main.js",
+		"/C/Users/osbor100/Desktop/IntroJS/functionPrac2.js",
+		"/C/Users/osbor100/Desktop/IntroJS/mapreduce.js",
+		"/C/Users/osbor100/Desktop/IntroJS/getName.js",
+		"/C/Users/osbor100/Desktop/IntroJS/functionPrac2.html",
+		"/C/Users/osbor100/Desktop/getName.js",
+		"/C/Users/osbor100/Desktop/introJS-week1a.js",
+		"/C/Users/osbor100/Desktop/spreadsheet.js",
+		"/C/Users/osbor100/Desktop/ajax.js",
+		"/C/Users/osbor100/Desktop/mapreduce.js",
+		"/C/Users/osbor100/Desktop/timeout.js",
+		"//its79/cdn/cis_lp/css/styles.css",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/LandingPages/lp_healthcare_ThankYou-v1500519.html",
+		"//its79/cdn/business_lp/css/styles.css",
+		"//its79/cdn/edu_lp/css/styles.css",
+		"//its79/cdn/healthcare_lp/css/styles.css",
+		"//its79/cdn/hss_lp/css/styles.css",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/LandingPages/lp_business_v1500511.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/LandingPages/lp_cps_lg_mba_12-150528.html",
+		"//its79/cdn/css/mba12.css",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/Emails/Non_Traditional_Communication_Track/upcoming term track/Upcoming_Term_Track_Day43_Email-5_v150527.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/Emails/Non_Traditional_Communication_Track/upcoming term track/Upcoming_Term_Track_Day29_Email-4_v150527.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/Emails/Non_Traditional_Communication_Track/upcoming term track/Upcoming_Term_Track_Day15_Email-3_v150527.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/Emails/Non_Traditional_Communication_Track/upcoming term track/Upcoming_Term_Track_Day15_Email-3_v150527New.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/Emails/Non_Traditional_Communication_Track/upcoming term track/Upcoming_Term_Track_Day3_Email-2_v150527.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/Emails/Non_Traditional_Communication_Track/upcoming term track/Upcoming_Term_Track_Day3_Email-2_v150527New.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/Emails/Non_Traditional_Communication_Track/upcoming term track/Upcoming_Term_Track_Day1_Email-1_v150527New.html",
+		"//its79/cdn/DailyVisit/js/ie10-viewport-bug-workaround.js",
+		"//its79/cdn/DailyVisit/css/dailyVisit.css",
+		"//its79/cdn/FirstVisitTest.html",
+		"//its79/cdn/DailyVisit/dailyVisit.html",
+		"//its79/cdn/healthcare_lp/js/app.js",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/LandingPages/lp_education_ThankYou_v150513 .html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/LandingPages/lp_healthcare_v150519.html",
+		"/C/Users/osbor100/Desktop/LP_test/test.html",
+		"/C/Users/osbor100/Desktop/LP_test/main.js",
+		"//its79/cdn/healthcare_lp/js/main.js",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/LandingPages/lp_education_v150513.html",
+		"//its79/cdn/edu_lp/js/app.js",
+		"//its79/cdn/business_lp/js/appOLD.js",
+		"/C/Users/osbor100/Desktop/quack.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/LandingPages/lp_business_ThankYou_v1500513.html",
+		"/C/Users/osbor100/Desktop/chat.html",
+		"/C/Users/osbor100/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/osbor100/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"//its79/cdn/edu_lp/js/main.js",
+		"/C/Users/osbor100/Desktop/hidedate.html",
+		"/C/Users/osbor100/Desktop/groot5.html",
+		"/C/Users/osbor100/Desktop/groot2.html",
+		"//its79/cdn/business_lp/js/main.js",
+		"/C/Users/osbor100/Desktop/formArray.js",
+		"/C/Users/osbor100/Desktop/first-javascript/first-javascript.sublime-project",
+		"/C/Users/osbor100/Desktop/first-javascript/index.html",
+		"/C/Users/osbor100/Desktop/first-javascript/main.js",
+		"/C/Users/osbor100/Desktop/index.html",
+		"/C/Users/osbor100/Desktop/main.js",
+		"/C/Users/osbor100/Desktop/main.css",
+		"/C/Users/osbor100/Desktop/groot.css",
+		"/C/Users/osbor100/Desktop/groot3.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/LandingPages/lp_computer_info_sciences_v150203.html",
+		"/C/Users/osbor100/Desktop/form51.html",
+		"/K/CPS Admissions/Creative/Landing Pages/Working Files from Primacy/2014-08-11-media-landing-packaged/ui/js/main.js",
+		"/K/CPS Admissions/Creative/Landing Pages/Working Files from Primacy/2014-08-11-media-landing-packaged/ui/vendor/requirejs/require.js",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/Emails/InkTemplate/basetemplate.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/Emails/Enviro_Biology_v150501.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/Emails/InkTemplate/ink.css",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/Emails/Collegefish_FAHSSE_v150417.html",
+		"/C/Users/osbor100/Desktop/gloop.sublime-workspace",
+		"/C/Users/osbor100/Desktop/reponsive_email_template.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/Emails/InkTemplate/InkTemplate.html",
+		"/K/CPS Admissions/Creative/File Transfer/TimO/Code Snippets/hide me.html",
+		"//its79/cdn/cis_lpTEST/js/main.js",
+		"/C/Users/osbor100/Desktop/arraytest5.html",
+		"/C/Users/osbor100/Desktop/arraytest6.html",
+		"/C/Users/osbor100/Desktop/cis_form.html",
+		"//its79/cdn/cis_lpTEST/js/app.js"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\osbor100\\Desktop\\nodejs",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Clever",
+			"Clever Kitchens",
+			"firstName",
+			"Directions",
+			"ingredients",
+			"computer Networking",
+			"Agile Technologies graduate certificate",
+			"B.S. Computer Science",
+			"B.S. Business Technology Management",
+			"B.S. Biochemistry",
+			"Graduate Unknown",
+			"Biology",
+			"B.S. Biology",
+			"Conflict Management undergraduate certificate",
+			"M.S. Criminology",
+			"B.A. Politics",
+			"B.S. Art History",
+			"Addictions Counseling post-graduate certificate",
+			"M.S. Health Services Administration",
+			"M.A. Marriage & Family Therapy",
+			"M.A. Counseling",
+			"Accelerated B.S. in Nursing",
+			"M.S. Nursing",
+			"Special Education - Added Endorsement only",
+			"Secondary Education - Initial Licensure only",
+			"{display: \"M.Ed. Secondary Education with Initial Teacher Licensure\", value: \"1\" },",
+			"B.A. Elementary Education with Initial Teacher Licensure",
+			"B.S. Computer Science",
+			"B.S. Business Technology Management",
+			"Information Assurance",
+			"M.S. Information Assurance",
+			"else if ((field0 == \"Business\") && (field1 == \"Doctorate\") && (field2 == 1)) {\n    list(pgm19);\n    }                                                                             ",
+			"Unk",
+			"accounting",
+			"Human Res",
+			"B.S. Human Resource Management\nH",
+			"Business",
+			"International",
+			"Business",
+			"B.S. Bu",
+			"B.S. Ac",
+			"===",
+			"special",
+			"M.Ed. Special Education with Initial Teacher Licensure\n",
+			"M.Ed. Special Education with Initial Teacher Licensure\nspecial",
+			"Secondary Education",
+			"Special Education",
+			"Linguistically",
+			"M.A. Education - Teaching the Linguistically Diverse Endorsement",
+			"Special Education",
+			"Early Childhood Special Education - Added Endorsement only",
+			"Secondary",
+			"Elementary",
+			"Elementary Education licensure",
+			"School Executive Leadership graduate certificate",
+			"M.A. Counseling",
+			"Transformative",
+			"Teacher Leadership",
+			"systems",
+			"executive leadership",
+			"Physical Therapy",
+			"Fellowship",
+			"Orthopedic",
+			"Nonprofit",
+			"Practitioner",
+			"mobile",
+			"Marriage",
+			"Linguistically",
+			"Executive Leadership",
+			"Leadership",
+			"Integrating",
+			"Information",
+			"Policy Management",
+			"Security",
+			"Health Information",
+			"Health Care",
+			"Health Care Business",
+			"Talented",
+			"Gerontology",
+			"Optimal Aging",
+			"Family Nurse Practitioner",
+			"Executive Project",
+			"Executive Leadership",
+			"Executive Information Technology",
+			"security ",
+			"Security ",
+			"E-Security ",
+			"Cybersecurity",
+			"critical",
+			"criminology",
+			"military",
+			"Adolescents",
+			"Conflict Management",
+			"Genomics",
+			"genetics",
+			"biomedical",
+			"autism",
+			"applied",
+			"Adult Education",
+			"Addictions Counseling",
+			"pHARMACY",
+			"Advanced Leadership",
+			"UNKNOWN",
+			"Nonprofit Management",
+			"Creative Writing",
+			"Master of Arts",
+			"NEONATAL",
+			"Family Nurse Practitioner focus",
+			"Systems Engineering",
+			"Software Engineering",
+			"Enterprise Resource",
+			"Health Care Systems",
+			"Information Technology",
+			"Information Assurance",
+			"Health Services Administration",
+			"Health Care",
+			"Health Care Informatics",
+			"Environmental Biology",
+			"Database Technologies",
+			"DATA SCIENCE",
+			"Criminology",
+			"Neonatal",
+			"Family Nurse Practitioner",
+			"Biomedical Science",
+			"Adult Education",
+			"Accounting",
+			"reading teacher",
+			"reading"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"==",
+			"hss_lp",
+			"value: \"1\" },",
+			"healthcare_lp",
+			"edu_lp",
+			"Regis.150220",
+			"cps.regis.edu",
+			"<option value=\"257B",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/layout.ejs",
+					"settings":
+					{
+						"buffer_size": 539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/suggest.ejs",
+					"settings":
+					{
+						"buffer_size": 3611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3611,
+								3611
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "script.js",
+					"settings":
+					{
+						"buffer_size": 1060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 76.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true
+}
