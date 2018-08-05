@@ -1,7 +1,7 @@
 {
   "name": "quotes",
   "version": "1.0.0",
-  "main": "quotes.js",
+  "main": "script.js",
   "scripts": {
     "start": "node script.js"    
   },
